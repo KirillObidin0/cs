@@ -48,8 +48,8 @@
   <ItemGroup>
     <Compile Include="NewFolder1\Request.cs" />
     <Compile Include="NewFolder1\Class2.cs" />
-    <Compile Include="NewFolder1\Sales.cs" />
     <Compile Include="NewFolder1\serviceUser.cs" />
+    <Compile Include="NewFolder1\Users.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
